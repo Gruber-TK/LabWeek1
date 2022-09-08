@@ -83,7 +83,8 @@ public class Application {
 		double myAnswer = (num4/num5) * num6;
 		System.out.println(myAnswer);
 		
-		
+		int currentAge = num1 * num2 * 3;
+		System.out.println(currentAge);
 		
 	}
 
